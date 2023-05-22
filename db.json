@@ -1,10 +1,40 @@
 {
   "users": [
     {
-      "name": "Ellis Waters",
-      "id": 6
+      "name": "Bethany Lebsack",
+      "id": 1
+    },
+    {
+      "name": "Gilbert Klocko",
+      "id": 2
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Oriental Concrete Cheese",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Granite Bacon",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Wooden Mouse",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Concrete Hat",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Modern Cotton Chicken",
+      "id": 8
+    }
+  ],
   "photos": []
 }
