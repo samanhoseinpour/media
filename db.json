@@ -22,11 +22,6 @@
     },
     {
       "userId": 1,
-      "title": "Awesome Wooden Mouse",
-      "id": 6
-    },
-    {
-      "userId": 1,
       "title": "Intelligent Concrete Hat",
       "id": 7
     },
@@ -34,7 +29,28 @@
       "userId": 1,
       "title": "Modern Cotton Chicken",
       "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Concrete Pizza",
+      "id": 9
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=99188",
+      "id": 1
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13354",
+      "id": 2
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=639",
+      "id": 3
+    }
+  ]
 }
